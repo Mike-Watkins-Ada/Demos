@@ -7,3 +7,5 @@ for (let i = 1; i <= 3; i++) {
     console.log(Math.pow(i, 2))
 
 } 
+
+
